@@ -1,0 +1,167 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+nav{ 
+    font-family: 'Port Lligat Slab', serif;
+    padding: 15px;
+    background-color: green;
+    display: flex;
+    justify-content: space-around;
+    font-size:20px;
+}
+
+.left{
+    font-size: 30px;
+    font-weight:bold ;
+   
+    
+}
+.right{
+    padding: 4px;
+}
+
+
+ nav ul{
+    display: flex;
+    list-style: none;
+    
+}
+
+ nav ul li{
+
+padding: 1px 24px;
+}
+
+ nav li a{
+    color:black;
+    text-decoration: none;
+}
+
+
+.first{
+
+    background-color: black;
+}
+
+
+h1{ 
+    text-decoration: underline;
+     color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 40px 20px;
+}
+hr{
+    
+   
+    border:1px solid white;
+}
+h2{
+    
+    color: green;
+    align-items: flex-end;
+}
+
+div{
+    display: flex;
+    
+    
+    
+}
+img{
+   
+    margin: 95px 120px;
+}
+
+p{    font-family: 'Port Lligat Slab', serif;
+    color:white;
+   
+    margin: 50px;
+    padding:50px;
+    text-align: center;
+}
+
+h3{
+    color: green;
+    font-size: 30px;
+    text-align: end;
+}
+
+.second{
+    background-color: gray;
+}
+
+ol{
+    
+        font-size: 22px;
+        padding: 25px 90px;
+        margin: 1px 119px;
+        list-style: circle;
+}
+
+.Project{
+    padding: 10px 30px;
+    margin: 10px 30px; 
+}
+.third{
+    background-color:gray;
+    color:white;
+    padding: 75px;
+}
+
+form{
+    
+        margin: 2px 240px;
+        padding: 0px 40px;
+       
+    background-color:black;
+}
+
+.third div{
+    display: block;
+    margin: 12px;
+    padding: 3px 36px;
+}
+
+
+    
+label{
+    display: block;
+    font-size: 20px;
+}
+
+input{
+    display: block;
+    width: 310px;
+    height: 31px
+}
+
+
+
+.foot{
+    background-color:green;
+   
+}
+
+.foot1{
+
+margin:10px 80px;
+font-size: 20px;
+}
+
+.foot2{
+    font-size: 19px;
+    justify-content:center;
+    align-items: center;
+    background-color: black;
+    height:38px;
+    color:aliceblue;
+}
+
+
+
+
